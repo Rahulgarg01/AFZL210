@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- email: ak341668@gmail.com
 
 <!---
 AFZL210/AFZL210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
