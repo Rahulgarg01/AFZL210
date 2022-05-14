@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AFZL210
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS,JAVA SCRIPT
-- 💞️ I’m looking to collaborate on ...
+- 👀 First Year IT Student
+- 🌱 MERN Stack Developer
 - 📫 How to reach me ...
 - email: ak341668@gmail.com
 
