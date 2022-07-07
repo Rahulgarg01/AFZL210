@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afzal Khan</h1>
-<h3 align="center">I am First Year IT student at Maharaja Agrasen Institute of technology. I have strong foundation of core CS concepts and I have solved more then 100 DSA Questions on Leetcode & GFG. I am interested in Problem Solving and Backend Development. I am experienced in JavaScript, C++, python. I have worked with NodeJS, React, Express frameworks and MongoDB , MySQL </h3>
+<h3 align="center">I am First Year IT student at Maharaja Agrasen Institute of Technology. I have strong foundation of core CS concepts and I have solved more then 100 DSA Questions on Leetcode & GFG. I am interested in Problem Solving and Backend Development. I am experienced in JavaScript, C++, python. I have worked with NodeJS, React, Express frameworks and MongoDB , MySQL </h3>
 
 💬 **Ask me about**
   - JavaScript
