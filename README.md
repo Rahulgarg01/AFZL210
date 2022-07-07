@@ -11,4 +11,4 @@
  - [**LinkedIn**](https://www.linkedin.com/in/afzal-khan) <a href="https://www.linkedin.com/in/afzal-khan-802109208" target="_blank"></a>
  - [**Jucify**](https://afzl210.github.io/Jucify/)
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AFZL2108&show_icons=true&count_private=true&theme=algolia" alt="Afzal's stats card"/> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AFZL210&show_icons=true&count_private=true&theme=algolia" alt="Afzal's stats card"/> </p>
